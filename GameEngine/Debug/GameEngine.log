@@ -1,0 +1,73 @@
+﻿Compilación iniciada a las 22/09/2015 23:47:43.
+     1>Proyecto "C:\Master\2dGame\GameEngine\GameEngine.vcxproj" en el nodo 2 (Build destinos).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I..\GameLib /I"..\libraries\SDL_image-1.2.10\include" /I"..\libraries\SDL-1.2.14\include" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt GameController.cpp
+         GameController.cpp
+     1>c:\master\2dgame\gamelib\vector3.h(100): warning C4522: 'Vector3' : se han especificado varios operadores de asignaciones
+     1>c:\master\2dgame\gameengine\gamecontroller.cpp(552): warning C4018: '<' : no coinciden signed/unsigned
+     1>c:\master\2dgame\gameengine\gamecontroller.cpp(643): warning C4244: 'argumento' : conversión de 'int' a 'float'; posible pérdida de datos
+     1>c:\master\2dgame\gameengine\gamecontroller.cpp(648): warning C4244: 'argumento' : conversión de 'int' a 'float'; posible pérdida de datos
+     1>c:\master\2dgame\gameengine\gamecontroller.cpp(675): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\stdlib.h(909) : vea la declaración de 'itoa'
+     1>c:\master\2dgame\gameengine\gamecontroller.cpp(678): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\stdlib.h(909) : vea la declaración de 'itoa'
+     1>c:\master\2dgame\gameengine\gamecontroller.cpp(687): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\stdlib.h(909) : vea la declaración de 'itoa'
+     1>c:\master\2dgame\gameengine\gamecontroller.cpp(690): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\stdlib.h(909) : vea la declaración de 'itoa'
+     1>c:\master\2dgame\gameengine\gamecontroller.cpp(706): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\stdlib.h(909) : vea la declaración de 'itoa'
+     1>c:\master\2dgame\gameengine\gamecontroller.cpp(707): warning C4244: 'argumento' : conversión de 'int' a 'float'; posible pérdida de datos
+     1>c:\master\2dgame\gameengine\gamecontroller.cpp(708): warning C4244: 'argumento' : conversión de 'int' a 'float'; posible pérdida de datos
+     1>c:\master\2dgame\gameengine\gamecontroller.cpp(709): warning C4244: 'argumento' : conversión de 'int' a 'float'; posible pérdida de datos
+     1>c:\master\2dgame\gameengine\gamecontroller.cpp(712): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\stdlib.h(909) : vea la declaración de 'itoa'
+     1>c:\master\2dgame\gameengine\gamecontroller.cpp(713): warning C4244: 'argumento' : conversión de 'int' a 'float'; posible pérdida de datos
+     1>c:\master\2dgame\gameengine\gamecontroller.cpp(725): warning C4244: 'argumento' : conversión de 'int' a 'float'; posible pérdida de datos
+     1>c:\master\2dgame\gameengine\gamecontroller.cpp(727): warning C4244: 'argumento' : conversión de 'int' a 'float'; posible pérdida de datos
+     1>c:\master\2dgame\gameengine\gamecontroller.cpp(734): warning C4244: 'argumento' : conversión de 'int' a 'float'; posible pérdida de datos
+     1>c:\master\2dgame\gameengine\gamecontroller.cpp(737): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\stdlib.h(909) : vea la declaración de 'itoa'
+     1>c:\master\2dgame\gameengine\gamecontroller.cpp(738): warning C4244: 'argumento' : conversión de 'int' a 'float'; posible pérdida de datos
+     1>c:\master\2dgame\gameengine\gamecontroller.cpp(740): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\stdlib.h(909) : vea la declaración de 'itoa'
+     1>c:\master\2dgame\gameengine\gamecontroller.cpp(741): warning C4244: 'argumento' : conversión de 'int' a 'float'; posible pérdida de datos
+     1>c:\master\2dgame\gameengine\gamecontroller.cpp(743): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\stdlib.h(909) : vea la declaración de 'itoa'
+     1>c:\master\2dgame\gameengine\gamecontroller.cpp(744): warning C4244: 'argumento' : conversión de 'int' a 'float'; posible pérdida de datos
+     1>c:\master\2dgame\gameengine\gamecontroller.cpp(749): warning C4244: 'argumento' : conversión de 'int' a 'float'; posible pérdida de datos
+     1>c:\master\2dgame\gameengine\gamecontroller.cpp(753): warning C4244: 'argumento' : conversión de 'int' a 'float'; posible pérdida de datos
+     1>c:\master\2dgame\gameengine\gamecontroller.cpp(755): warning C4244: 'argumento' : conversión de 'int' a 'float'; posible pérdida de datos
+     1>c:\master\2dgame\gameengine\gamecontroller.cpp(757): warning C4244: 'argumento' : conversión de 'int' a 'float'; posible pérdida de datos
+     1>c:\master\2dgame\gameengine\gamecontroller.cpp(763): warning C4244: 'argumento' : conversión de 'int' a 'float'; posible pérdida de datos
+     1>c:\master\2dgame\gameengine\gamecontroller.cpp(766): warning C4244: 'argumento' : conversión de 'int' a 'float'; posible pérdida de datos
+     1>c:\master\2dgame\gameengine\gamecontroller.cpp(773): warning C4244: 'argumento' : conversión de 'int' a 'float'; posible pérdida de datos
+     1>c:\master\2dgame\gameengine\gamecontroller.cpp(776): warning C4244: 'argumento' : conversión de 'int' a 'float'; posible pérdida de datos
+     1>c:\master\2dgame\gameengine\gamecontroller.cpp(842): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\stdio.h(218) : vea la declaración de 'fopen'
+     1>c:\master\2dgame\gameengine\gamecontroller.cpp(880): warning C4244: 'argumento' : conversión de 'int' a 'float'; posible pérdida de datos
+       Link:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Master\2dGame\GameEngine\Debug\GameEngine.exe" /INCREMENTAL /NOLOGO /LIBPATH:..\GameEngine\Debug /LIBPATH:"..\libraries\SDL-1.2.14\lib\\" /LIBPATH:"..\libraries\SDL_image-1.2.10\lib\\" SDL.lib SDLmain.lib SDL_Image.lib OpenGL32.lib GLu32.lib GameLib.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Master\2dGame\GameEngine\Debug\GameEngine.pdb" /SUBSYSTEM:CONSOLE /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Master\2dGame\GameEngine\Debug\GameEngine.lib" /MACHINE:X86 Debug\GameController.obj
+         Debug\GameEngine.obj
+         Debug\GridIndex.obj
+         Debug\Keyboard.obj
+         Debug\Missile.obj
+         Debug\Node.obj
+         Debug\stdafx.obj
+         Debug\Tank.obj
+         Debug\TextFont.obj
+         Debug\tinystr.obj
+         Debug\tinyxml.obj
+         Debug\tinyxmlerror.obj
+         Debug\tinyxmlparser.obj
+         Debug\Turret.obj
+         Debug\Wall.obj
+     1>LINK : warning LNK4075: se omite '/INCREMENTAL' debido a la especificación '/LTCG'
+     1>GameController.obj : warning LNK4075: se omite '/EDITANDCONTINUE' debido a la especificación '/OPT:LBR'
+         LINK : se especificó /LTCG pero no se requiere generación de código; quite /LTCG de la línea de comandos de vínculo para mejorar el rendimiento del vinculador
+         GameEngine.vcxproj -> C:\Master\2dGame\GameEngine\Debug\GameEngine.exe
+     1>Compilación del proyecto terminada "C:\Master\2dGame\GameEngine\GameEngine.vcxproj" (Build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:03.62

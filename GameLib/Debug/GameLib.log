@@ -1,0 +1,15 @@
+﻿Compilación iniciada a las 22/09/2015 23:07:04.
+     1>Proyecto "C:\Master\2dGame\GameLib\GameLib.vcxproj" en el nodo 3 (Build destinos).
+     1>Lib:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\Lib.exe /OUT:"C:\Master\2dGame\GameEngine\Debug\GameLib.lib" /NOLOGO /LTCG Debug\app.res
+         Debug\Matrix3x3.obj
+         Debug\Sprite.obj
+         Debug\Stdafx.obj
+         Debug\Vector3.obj
+     1>LINK : warning LNK4068: no se especific¾ /MACHINE; estableciendo X86 como predeterminado
+         GameLib.vcxproj -> C:\Master\2dGame\GameEngine\Debug\GameLib.lib
+     1>Compilación del proyecto terminada "C:\Master\2dGame\GameLib\GameLib.vcxproj" (Build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:01.62

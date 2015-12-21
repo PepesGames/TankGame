@@ -1,0 +1,106 @@
+﻿Compilación iniciada a las 18/12/2015 1:14:56.
+     1>Proyecto "C:\Master\TankGame\GameEngine\GameEngine.vcxproj" en el nodo 2 (Build destinos).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I..\GameLib /I"..\libraries\SDL_image-1.2.10\include" /I"..\libraries\SDL-1.2.14\include" /Zi /nologo /W3 /WX- /Od /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Release\GameEngine.pch" /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I..\GameLib /I"..\libraries\SDL_image-1.2.10\include" /I"..\libraries\SDL-1.2.14\include" /Zi /nologo /W3 /WX- /Od /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt GameController.cpp GameEngine.cpp GridIndex.cpp Keyboard.cpp Missile.cpp Node.cpp Tank.cpp TextFont.cpp tinystr.cpp tinyxml.cpp tinyxmlerror.cpp tinyxmlparser.cpp Turret.cpp Wall.cpp
+         GameController.cpp
+     1>C:\Master\TankGame\GameLib\Vector3.h(100): warning C4522: 'Vector3' : se han especificado varios operadores de asignaciones
+     1>GameController.cpp(552): warning C4018: '<' : no coinciden signed/unsigned
+     1>GameController.cpp(643): warning C4244: 'argumento' : conversión de 'int' a 'float'; posible pérdida de datos
+     1>GameController.cpp(648): warning C4244: 'argumento' : conversión de 'int' a 'float'; posible pérdida de datos
+     1>GameController.cpp(675): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 C:\Program Files\Microsoft Visual Studio 11.0\VC\include\stdlib.h(909) : vea la declaración de 'itoa'
+     1>GameController.cpp(678): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 C:\Program Files\Microsoft Visual Studio 11.0\VC\include\stdlib.h(909) : vea la declaración de 'itoa'
+     1>GameController.cpp(687): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 C:\Program Files\Microsoft Visual Studio 11.0\VC\include\stdlib.h(909) : vea la declaración de 'itoa'
+     1>GameController.cpp(690): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 C:\Program Files\Microsoft Visual Studio 11.0\VC\include\stdlib.h(909) : vea la declaración de 'itoa'
+     1>GameController.cpp(706): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 C:\Program Files\Microsoft Visual Studio 11.0\VC\include\stdlib.h(909) : vea la declaración de 'itoa'
+     1>GameController.cpp(707): warning C4244: 'argumento' : conversión de 'int' a 'float'; posible pérdida de datos
+     1>GameController.cpp(708): warning C4244: 'argumento' : conversión de 'int' a 'float'; posible pérdida de datos
+     1>GameController.cpp(709): warning C4244: 'argumento' : conversión de 'int' a 'float'; posible pérdida de datos
+     1>GameController.cpp(712): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 C:\Program Files\Microsoft Visual Studio 11.0\VC\include\stdlib.h(909) : vea la declaración de 'itoa'
+     1>GameController.cpp(713): warning C4244: 'argumento' : conversión de 'int' a 'float'; posible pérdida de datos
+     1>GameController.cpp(725): warning C4244: 'argumento' : conversión de 'int' a 'float'; posible pérdida de datos
+     1>GameController.cpp(727): warning C4244: 'argumento' : conversión de 'int' a 'float'; posible pérdida de datos
+     1>GameController.cpp(734): warning C4244: 'argumento' : conversión de 'int' a 'float'; posible pérdida de datos
+     1>GameController.cpp(737): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 C:\Program Files\Microsoft Visual Studio 11.0\VC\include\stdlib.h(909) : vea la declaración de 'itoa'
+     1>GameController.cpp(738): warning C4244: 'argumento' : conversión de 'int' a 'float'; posible pérdida de datos
+     1>GameController.cpp(740): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 C:\Program Files\Microsoft Visual Studio 11.0\VC\include\stdlib.h(909) : vea la declaración de 'itoa'
+     1>GameController.cpp(741): warning C4244: 'argumento' : conversión de 'int' a 'float'; posible pérdida de datos
+     1>GameController.cpp(743): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 C:\Program Files\Microsoft Visual Studio 11.0\VC\include\stdlib.h(909) : vea la declaración de 'itoa'
+     1>GameController.cpp(744): warning C4244: 'argumento' : conversión de 'int' a 'float'; posible pérdida de datos
+     1>GameController.cpp(749): warning C4244: 'argumento' : conversión de 'int' a 'float'; posible pérdida de datos
+     1>GameController.cpp(753): warning C4244: 'argumento' : conversión de 'int' a 'float'; posible pérdida de datos
+     1>GameController.cpp(755): warning C4244: 'argumento' : conversión de 'int' a 'float'; posible pérdida de datos
+     1>GameController.cpp(757): warning C4244: 'argumento' : conversión de 'int' a 'float'; posible pérdida de datos
+     1>GameController.cpp(763): warning C4244: 'argumento' : conversión de 'int' a 'float'; posible pérdida de datos
+     1>GameController.cpp(766): warning C4244: 'argumento' : conversión de 'int' a 'float'; posible pérdida de datos
+     1>GameController.cpp(773): warning C4244: 'argumento' : conversión de 'int' a 'float'; posible pérdida de datos
+     1>GameController.cpp(776): warning C4244: 'argumento' : conversión de 'int' a 'float'; posible pérdida de datos
+     1>GameController.cpp(842): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files\Microsoft Visual Studio 11.0\VC\include\stdio.h(218) : vea la declaración de 'fopen'
+     1>GameController.cpp(880): warning C4244: 'argumento' : conversión de 'int' a 'float'; posible pérdida de datos
+         GameEngine.cpp
+     1>C:\Master\TankGame\GameLib\Vector3.h(100): warning C4522: 'Vector3' : se han especificado varios operadores de asignaciones
+     1>c:\master\tankgame\gameengine\settings.h(6): warning C4305: 'inicializando' : truncamiento de 'double' a 'const float'
+         GridIndex.cpp
+     1>C:\Master\TankGame\GameLib\Vector3.h(100): warning C4522: 'Vector3' : se han especificado varios operadores de asignaciones
+     1>c:\master\tankgame\gameengine\Settings.h(6): warning C4305: 'inicializando' : truncamiento de 'double' a 'const float'
+     1>GridIndex.cpp(13): warning C4244: 'argumento' : conversión de 'const int' a 'float'; posible pérdida de datos
+     1>GridIndex.cpp(168): warning C4018: '<' : no coinciden signed/unsigned
+     1>GridIndex.cpp(174): warning C4018: '<' : no coinciden signed/unsigned
+         Keyboard.cpp
+     1>Keyboard.cpp(56): warning C4101: 'c' : variable local sin referencia
+         Missile.cpp
+     1>c:\master\tankgame\gameengine\Settings.h(6): warning C4305: 'inicializando' : truncamiento de 'double' a 'const float'
+     1>C:\Master\TankGame\GameLib\Vector3.h(100): warning C4522: 'Vector3' : se han especificado varios operadores de asignaciones
+         Node.cpp
+     1>C:\Master\TankGame\GameLib\Vector3.h(100): warning C4522: 'Vector3' : se han especificado varios operadores de asignaciones
+         Tank.cpp
+     1>c:\master\tankgame\gamelib\Vector3.h(100): warning C4522: 'Vector3' : se han especificado varios operadores de asignaciones
+         TextFont.cpp
+     1>c:\master\tankgame\gamelib\Vector3.h(100): warning C4522: 'Vector3' : se han especificado varios operadores de asignaciones
+     1>TextFont.cpp(60): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files\Microsoft Visual Studio 11.0\VC\include\stdio.h(357) : vea la declaración de 'sprintf'
+     1>TextFont.cpp(63): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files\Microsoft Visual Studio 11.0\VC\include\stdio.h(357) : vea la declaración de 'sprintf'
+         tinystr.cpp
+         tinyxml.cpp
+         tinyxmlerror.cpp
+         tinyxmlparser.cpp
+         Turret.cpp
+     1>C:\Master\TankGame\GameLib\Vector3.h(100): warning C4522: 'Vector3' : se han especificado varios operadores de asignaciones
+         Wall.cpp
+     1>c:\master\tankgame\gamelib\Vector3.h(100): warning C4522: 'Vector3' : se han especificado varios operadores de asignaciones
+       Link:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Master\TankGame\GameEngine\Release\GameEngine.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:..\GameEngine\Release /LIBPATH:"..\libraries\SDL_image-1.2.10\lib\\" /LIBPATH:"..\libraries\SDL-1.2.14\lib\\" SDL.lib SDLmain.lib SDL_Image.lib OpenGL32.lib GLu32.lib GameLib.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Master\TankGame\GameEngine\Release\GameEngine.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Master\TankGame\GameEngine\Release\GameEngine.lib" /MACHINE:X86 /SAFESEH Release\GameController.obj
+         Release\GameEngine.obj
+         Release\GridIndex.obj
+         Release\Keyboard.obj
+         Release\Missile.obj
+         Release\Node.obj
+         Release\stdafx.obj
+         Release\Tank.obj
+         Release\TextFont.obj
+         Release\tinystr.obj
+         Release\tinyxml.obj
+         Release\tinyxmlerror.obj
+         Release\tinyxmlparser.obj
+         Release\Turret.obj
+         Release\Wall.obj
+         Generando código
+         Generación de código finalizada
+         GameEngine.vcxproj -> C:\Master\TankGame\GameEngine\Release\GameEngine.exe
+     1>Compilación del proyecto terminada "C:\Master\TankGame\GameEngine\GameEngine.vcxproj" (Build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:36.95
